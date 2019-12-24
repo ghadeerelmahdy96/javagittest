@@ -4,9 +4,12 @@ public class Test{
     
         if(){
         
-        }
+}
     
-    }
+}
 
+	public static void main(String[]args){
+	}
+	
 
 }
