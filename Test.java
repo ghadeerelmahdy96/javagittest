@@ -4,7 +4,12 @@ public class Test{
     		if(){
 			
     		}
-		for(){
-	}
+	      for(){
+	      	
+}         
+if(){
+	
+}
+
 	}
 }
