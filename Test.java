@@ -1,9 +1,7 @@
 public class Test{
 
-    void m(){
-    if(){
-    
-}
-    if(){
-    }
+    	void m(){
+    		if(){
+    		}
+	}
 }
