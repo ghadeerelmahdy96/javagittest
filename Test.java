@@ -1,13 +1,7 @@
 public class Test{
 
     void m(){
-	    if(){
+    if(){
     
-}
-}
-
-	public static void main(String[]args){
-	}
-	
-
+    }
 }
